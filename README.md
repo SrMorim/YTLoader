@@ -1,4 +1,4 @@
-# YTLoad
+# YTLoader
 
 YTLoad é uma ferramenta destinada a criadores de conteúdo que precisam baixar vídeos ou áudios do YouTube de forma segura, evitando sites duvidosos que podem incluir vírus nos downloads.
 
